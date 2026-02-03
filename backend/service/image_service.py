@@ -5,7 +5,6 @@ from dashscope import MultiModalConversation
 import base64
 import mimetypes
 import dashscope
-from langchain_classic.chains.question_answering.map_reduce_prompt import messages
 
 from backend.config import Config
 # 以下为中国（北京）地域url，若使用新加坡地域的模型，需将url替换为：https://dashscope-intl.aliyuncs.com/api/v1
