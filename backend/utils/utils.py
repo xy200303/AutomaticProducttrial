@@ -79,7 +79,7 @@ async def parse_short_url(short_url):
 
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.post('https://www.sojson.com/auth_v_1_0/http/dwz-decode.shtml', headers=headers,cookies=cookies,data=data) as response:
+            async with session.post('https://www.sojson.com/auth_v_1_0/http/dwz-decode.shtml', headers=headers,cookies=cookies,data=data,ssl=False) as response:
                 # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
                 response.raise_for_status()
                 # 解析返回的 JSON 数据
