@@ -117,10 +117,9 @@ function App() {
       });
       if (res.data.code === 200) {
         // 从返回的数据中提取商品图片
-        // 优先使用 skus 中的图片，因为它们对应具体款式
         let imgs = [];
         
-        // 1. 尝试从 props.attribute.values.sku_url 提取
+        // 1. 尝试从 props.attribute.values.sku_url 提取 (兼容旧结构)
         if (res.data.data.props) {
             res.data.data.props.forEach(prop => {
                 if (prop.values) {
@@ -133,10 +132,31 @@ function App() {
             });
         }
         
-        // 2. 如果没有提取到，或者想补充更多，可以从 item_imgs 获取
-        // 注意：item_imgs 通常是商品主图，可能不包含具体款式的细节
+        // 2. 从 item_imgs 获取 (兼容旧结构)
         const mainImgs = res.data.data.item_imgs || [];
         imgs = [...imgs, ...mainImgs];
+
+        // 3. 从 item.images 获取 (新结构)
+        if (res.data.data.item && res.data.data.item.images) {
+            const newImgs = res.data.data.item.images.map(img => {
+                if (img.startsWith('//')) {
+                    return 'https:' + img;
+                }
+                return img;
+            });
+            imgs = [...imgs, ...newImgs];
+        }
+
+        // 4. 从 item.sku_images 获取 (新结构 - Dictionary)
+        if (res.data.data.item && res.data.data.item.sku_images) {
+            const skuImgs = Object.values(res.data.data.item.sku_images).map(img => {
+                if (img.startsWith('//')) {
+                    return 'https:' + img;
+                }
+                return img;
+            });
+            imgs = [...imgs, ...skuImgs];
+        }
 
         // 去重
         imgs = [...new Set(imgs)];
