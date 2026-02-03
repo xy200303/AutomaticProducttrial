@@ -119,7 +119,7 @@ def extract_tb_item_id(url):
         return None
 
 async def get_taobao_item(item_id: str):
-    url = f"http://47.117.133.51:30015/api/taobao/get-item-detail/v9?token={Config.just_one_api_key}&itemId={item_id}"
+    url = f"http://47.117.133.51:30015/api/taobao/get-item-detail/v5?token={Config.just_one_api_key}&itemId={item_id}"
     headers = {}
     try:
         async with aiohttp.ClientSession() as session:
@@ -128,6 +128,7 @@ async def get_taobao_item(item_id: str):
                 response.raise_for_status()
                 # 解析返回的 JSON 数据
                 data = await response.json()
+                print(data)
                 return data
     except aiohttp.ClientResponseError as e:
         logger.error(e)
