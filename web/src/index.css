@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-950 text-white font-sans;
+  background-image: radial-gradient(circle at center, #1e293b 0%, #020617 100%);
+  min-height: 100vh;
+}
