@@ -216,7 +216,7 @@ function App() {
                 <textarea
                   value={itemUrl}
                   onChange={(e) => setItemUrl(e.target.value)}
-                  placeholder="粘贴淘宝/天猫商品链接，支持直接粘贴完整分享口令"
+                  placeholder="粘贴淘宝/天猫/京东商品链接，支持直接粘贴完整分享口令"
                   className="w-full h-32 bg-slate-900 border border-slate-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 transition-all resize-none"
                 />
                 <button
