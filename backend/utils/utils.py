@@ -112,8 +112,9 @@ def extract_tb_item_id(url):
         # 获取 id 参数（parse_qs 返回列表，取第一个元素）
         if 'id' in query_params and query_params['id']:
             return query_params['id'][0]
-        else:
-            return None  
+        elif "itemIds" in query_params and query_params['itemIds']:
+            return query_params['itemIds'][0]
+        return None
     except Exception as e:
         print(f"URL 解析错误: {e}")
         return None
