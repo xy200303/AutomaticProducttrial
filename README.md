@@ -1,6 +1,9 @@
 # 自动商品试用 (AI Product Try-On)
 
 一个基于 AI 的智能商品试用系统，支持将任意商品（不仅仅是服装）与人物照片进行智能合成，实现虚拟试用效果。系统支持自动解析淘宝/天猫商品链接，提取商品图片，并利用先进的 AI 模型生成逼真的试用效果图。
+<img width="1835" height="926" alt="f20ba39f-6711-4579-99c1-8de8ced4f266" src="https://github.com/user-attachments/assets/6a1af39b-30d8-4740-815e-f0441524415c" />
+<img width="1852" height="918" alt="2481cf29-f79e-415b-95b2-0bf0c77d109c" src="https://github.com/user-attachments/assets/b157da68-1641-4f5e-aaf6-bada578728a5" />
+<img width="1803" height="903" alt="258d481d-b180-4ef7-be97-c4f1f37b500e" src="https://github.com/user-attachments/assets/282999a7-054d-4d15-b2f2-8006ab691a7c" />
 
 ## ✨ 核心功能
 
