@@ -54,6 +54,9 @@ cd 自动商品试用
     ```
 
 2.  配置 API Key：
+    ```bash
+    cp config.yaml.example config.yaml
+    ```
     *   打开 `config.yaml` 或相应的配置文件（如 `backend/config.py`）。
     *   填入您的阿里云 DashScope API Key。
 

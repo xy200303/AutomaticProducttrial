@@ -11,22 +11,23 @@ from contextlib import asynccontextmanager
 from starlette.staticfiles import StaticFiles
 
 # 导入配置模块
-from backend.config import Config
+from backend.config import Config, load_config
 from backend.utils import *
 from backend.api import api_router
 from backend.middleware.exception_handler import GlobalExceptionMiddleware
 # 创建FastAPI应用实例
 
+os.makedirs("./static",exist_ok=True)
+os.makedirs("./upload",exist_ok=True)
+os.makedirs("./temp",exist_ok=True)
+os.makedirs("./cache",exist_ok=True)
 # 应用启动事件
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """应用启动时的初始化操作"""
     try:
         # 加载配置文件
-        os.makedirs("./static",exist_ok=True)
-        os.makedirs("./upload",exist_ok=True)
-        os.makedirs("./temp",exist_ok=True)
-        os.makedirs("./cache",exist_ok=True)
+        load_config()
         print("✅ 应用配置加载成功")
     except Exception as e:
         print(f"❌ 配置加载失败: {e}")

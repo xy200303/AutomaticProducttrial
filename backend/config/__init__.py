@@ -9,6 +9,8 @@ class Config:
     """配置数据模型"""
     just_one_api_key: str
     dashscope_api_key: str
+    onebound_api_key:str
+    onebound_api_secret:str
 
     @classmethod
     def from_yaml(cls, yaml_path: str = "config.yaml") -> "Config":
@@ -41,16 +43,10 @@ class Config:
 
         return cls(
             just_one_api_key=data['JustOneApiKey'],
-            dashscope_api_key=data["DashscopeApiKey"]
+            dashscope_api_key=data["DashscopeApiKey"],
+            onebound_api_key=data["OneBoundApiKey"],
+            onebound_api_secret=data["OneBoundApiSecret"]
         )
-
-    def get_api_key(self) -> str:
-        """获取API密钥
-
-        Returns:
-            API密钥字符串
-        """
-        return self.just_one_api_key
 
 
 # 全局配置实例
@@ -78,11 +74,9 @@ def get_config() -> Config:
     Returns:
         Config实例
 
-    Raises:
-        RuntimeError: 当配置尚未加载时
     """
     if _config_instance is None:
-        raise RuntimeError("配置尚未加载，请先调用 load_config()")
+        load_config()
     return _config_instance
 
 
@@ -100,4 +94,4 @@ def reload_config(yaml_path: str = "config.yaml") -> Config:
     return _config_instance
 
 
-Config = load_config()
+Config = get_config()

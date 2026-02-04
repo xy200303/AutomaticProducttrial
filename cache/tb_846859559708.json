@@ -1,993 +1,1116 @@
 {
-    "code": 0,
-    "data": {
-        "item": {
-            "trade": {
-                "buyEnable": null,
-                "cartEnable": null,
-                "isBanSale4Oversea": null
+    "item": {
+        "num_iid": "846859559708",
+        "title": "品牌男装海蓝羽绒棉服男冬季澜新款加厚连帽之帅气青年百搭家外套",
+        "desc_short": "",
+        "price": "135",
+        "orginal_price": 138,
+        "nick": 1,
+        "num": "15000",
+        "pic_url": "https://img.alicdn.com/imgextra/i3/2215831644321/O1CN01xILUSY1hn4PYPgS4f_!!2215831644321.png",
+        "brand": "Tagkita/她及其他",
+        "brandId": 0,
+        "rootCatId": 0,
+        "cid": 50011167,
+        "crumbs": null,
+        "detail_url": "https://item.taobao.com/item.htm?id=846859559708",
+        "desc": "",
+        "item_imgs": [
+            {
+                "url": "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01xILUSY1hn4PYPgS4f_!!2215831644321.png"
             },
-            "num_iid": "846859559708",
-            "title": "品牌男装海蓝羽绒棉服男冬季澜新款加厚连帽之帅气青年百搭家外套",
-            "cat_id": null,
-            "cat_name": null,
-            "brandName": null,
-            "sales": null,
-            "detail_url": "//item.taobao.com/item.htm?id=846859559708",
-            "images": [
-                "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01xILUSY1hn4PYPgS4f_!!2215831644321.png",
-                "//img.alicdn.com/bao/uploaded/i4/2215831644321/O1CN01fCLjQM1hn4PXNtY9q_!!2215831644321.png",
-                "//img.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01rBnWSt1hn4PVBNZ7A_!!2215831644321.png",
-                "//img.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01Puch5g1hn4PW7PIsH_!!2215831644321.png",
-                "//img.alicdn.com/bao/uploaded/i4/2215831644321/O1CN01pKwgws1hn4P51YRgL_!!2215831644321.jpg"
-            ],
-            "video": null,
-            "video_thumbnail": null,
-            "properties_cut": "上市时间 / 含绒量 / 款式细节 / 服饰工艺 / 吊牌价 / 面料分类 / 基础风格 / 适用场景 / 绒子含量 / 填充物 / 适用温度 / 男装-穿着方式 / 上市年份季节 / 细分风格 / 穿搭方式 / 尺码 / 颜色 / 品牌 / 充绒量 / 袖型 / 适用对象 / 货号 / 面料功能 / 产地 / 功能性 / 厚薄 / 领型 / 衣长 / 衣门襟 / 图案",
-            "properties": [
-                {
-                    "name": "上市时间",
-                    "value": "2024-10"
-                },
-                {
-                    "name": "含绒量",
-                    "value": "90%"
-                },
-                {
-                    "name": "款式细节",
-                    "value": "肩章"
-                },
-                {
-                    "name": "服饰工艺",
-                    "value": "免烫处理"
-                },
-                {
-                    "name": "吊牌价",
-                    "value": "599元"
-                },
-                {
-                    "name": "面料分类",
-                    "value": "聚酯纤维"
-                },
-                {
-                    "name": "基础风格",
-                    "value": "青春流行"
-                },
-                {
-                    "name": "适用场景",
-                    "value": "其他休闲"
-                },
-                {
-                    "name": "绒子含量",
-                    "value": "90%(含)-95%(不含)"
-                },
-                {
-                    "name": "填充物",
-                    "value": "其他/other"
-                },
-                {
-                    "name": "适用温度",
-                    "value": "0-10°"
-                },
-                {
-                    "name": "男装-穿着方式",
-                    "value": "外穿"
-                },
-                {
-                    "name": "上市年份季节",
-                    "value": "2024年秋季"
-                },
-                {
-                    "name": "细分风格",
-                    "value": "基础大众"
-                },
-                {
-                    "name": "穿搭方式",
-                    "value": "外穿"
-                },
-                {
-                    "name": "尺码",
-                    "value": "3XL, 2XL, M, L, XL, 4XL, 5XL"
-                },
-                {
-                    "name": "颜色",
-                    "value": "卡其色, 黑色, 蓝色, 黑色（8836加厚款）, 卡其色（8836加厚款）, 蓝色（8836加厚款）, 黑色（5099加厚款）, 蓝色（5099加厚款）, 卡其色（5099加厚款）, 黑色3038（帽子可拆加厚款）, 卡其色3038（帽子可拆加厚款）, 灰色3038（帽子可拆加厚款）"
-                },
-                {
-                    "name": "品牌",
-                    "value": "Tagkita/她及其他"
-                },
-                {
-                    "name": "充绒量",
-                    "value": "200g(含)-250g(不含)"
-                },
-                {
-                    "name": "袖型",
-                    "value": "收口袖"
-                },
-                {
-                    "name": "适用对象",
-                    "value": "青年"
-                },
-                {
-                    "name": "货号",
-                    "value": "92298"
-                },
-                {
-                    "name": "面料功能",
-                    "value": "防风"
-                },
-                {
-                    "name": "产地",
-                    "value": "中国"
-                },
-                {
-                    "name": "功能性",
-                    "value": "防水"
-                },
-                {
-                    "name": "厚薄",
-                    "value": "加厚"
-                },
-                {
-                    "name": "领型",
-                    "value": "连帽"
-                },
-                {
-                    "name": "衣长",
-                    "value": "短款"
-                },
-                {
-                    "name": "衣门襟",
-                    "value": "拉链"
-                },
-                {
-                    "name": "图案",
-                    "value": "纯色"
-                }
-            ],
-            "desc_url": "//mdetail.tmall.com/templates/pages/desc?id=846859559708",
-            "desc_imgs": [
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN017RquUj1hn4H3glnbI_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01d2BKhR1hn4P0krzD5_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01gJTxTO1hn4P2vurzB_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01cm1Lb71hn4P32KySA_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01axiNWT1hn4P3TQDeZ_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01HdEnEK1hn4P4XDqmy_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01LKfXQL1hn4QIkxqXF_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01vfZFxh1hn4P0kszaS_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01uG0oKX1hn4P1UzmQH_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01mSYxZD1hn4P0ktKMy_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01YnAPL81hn4P4WEYef_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01MEsNQe1hn4P3Tn2l0_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN01qTGvtV1hn4P1Uzulc_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01VY4Afy1hn4P2vtfF0_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN014e1hm01hn4P3YCHNr_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01lUCEJA1hn4P6So7iL_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN01KUIjSe1hn4P49USkG_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01rCogit1hn4P3TPx3v_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01M6Dm6K1hn4P32KdiP_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN01NFc7sI1hn4P1UziGV_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01staVCB1hn4P1keoea_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN01zQ2tGh1hn4P2w6gmm_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01G2pI4I1hn4P2w7E1W_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i3/2215831644321/O1CN01Y60P7q1hn4P3bQSdX_!!2215831644321.jpg",
-                "//img.alicdn.com/imgextra/i2/2215831644321/O1CN01sfN2e81hn4P1kq5rb_!!2215831644321.jpg"
-            ],
-            "skus": {
-                "quantity": "14900",
-                "price": "599",
-                "promotion_price": "138 - 178",
-                "activity_price": null
+            {
+                "url": "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01fCLjQM1hn4PXNtY9q_!!2215831644321.png"
             },
-            "sku_base": [
-                {
-                    "skuId": "5632272397010",
-                    "propPath": "20509:28315;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397011",
-                    "propPath": "20509:28316;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "160"
-                },
-                {
-                    "skuId": "5632272397012",
-                    "propPath": "20509:28317;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397013",
-                    "propPath": "20509:6145171;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397014",
-                    "propPath": "20509:115781;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397015",
-                    "propPath": "20509:3727387;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397016",
-                    "propPath": "20509:7539404;1627207:28341",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397017",
-                    "propPath": "20509:28315;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397018",
-                    "propPath": "20509:28316;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397019",
-                    "propPath": "20509:28317;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397020",
-                    "propPath": "20509:6145171;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397021",
-                    "propPath": "20509:115781;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397022",
-                    "propPath": "20509:3727387;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397023",
-                    "propPath": "20509:7539404;1627207:28331",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397024",
-                    "propPath": "20509:28315;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397025",
-                    "propPath": "20509:28316;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397026",
-                    "propPath": "20509:28317;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397027",
-                    "propPath": "20509:6145171;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397028",
-                    "propPath": "20509:115781;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397029",
-                    "propPath": "20509:3727387;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397030",
-                    "propPath": "20509:7539404;1627207:28338",
-                    "price": "599",
-                    "promotion_price": "138",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397031",
-                    "propPath": "20509:28315;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397032",
-                    "propPath": "20509:28316;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397033",
-                    "propPath": "20509:28317;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397034",
-                    "propPath": "20509:6145171;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397035",
-                    "propPath": "20509:115781;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397036",
-                    "propPath": "20509:3727387;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397037",
-                    "propPath": "20509:7539404;1627207:34580291321",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397038",
-                    "propPath": "20509:28315;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397039",
-                    "propPath": "20509:28316;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "140"
-                },
-                {
-                    "skuId": "5632272397040",
-                    "propPath": "20509:28317;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397041",
-                    "propPath": "20509:6145171;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397042",
-                    "propPath": "20509:115781;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397043",
-                    "propPath": "20509:3727387;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397044",
-                    "propPath": "20509:7539404;1627207:34580291320",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397045",
-                    "propPath": "20509:28315;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397046",
-                    "propPath": "20509:28316;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397047",
-                    "propPath": "20509:28317;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397048",
-                    "propPath": "20509:6145171;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397049",
-                    "propPath": "20509:115781;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397050",
-                    "propPath": "20509:3727387;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397051",
-                    "propPath": "20509:7539404;1627207:34580291322",
-                    "price": "599",
-                    "promotion_price": "158",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397052",
-                    "propPath": "20509:28315;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397053",
-                    "propPath": "20509:28316;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397054",
-                    "propPath": "20509:28317;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397055",
-                    "propPath": "20509:6145171;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397056",
-                    "propPath": "20509:115781;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397057",
-                    "propPath": "20509:3727387;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397058",
-                    "propPath": "20509:7539404;1627207:34580291323",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397059",
-                    "propPath": "20509:28315;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397060",
-                    "propPath": "20509:28316;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397061",
-                    "propPath": "20509:28317;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397062",
-                    "propPath": "20509:6145171;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397063",
-                    "propPath": "20509:115781;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397064",
-                    "propPath": "20509:3727387;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397065",
-                    "propPath": "20509:7539404;1627207:34580291325",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397066",
-                    "propPath": "20509:28315;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397067",
-                    "propPath": "20509:28316;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397068",
-                    "propPath": "20509:28317;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397069",
-                    "propPath": "20509:6145171;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397070",
-                    "propPath": "20509:115781;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397071",
-                    "propPath": "20509:3727387;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397072",
-                    "propPath": "20509:7539404;1627207:34580291324",
-                    "price": "599",
-                    "promotion_price": "168",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397073",
-                    "propPath": "20509:28315;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397074",
-                    "propPath": "20509:28316;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397075",
-                    "propPath": "20509:28317;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397076",
-                    "propPath": "20509:6145171;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397077",
-                    "propPath": "20509:115781;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397078",
-                    "propPath": "20509:3727387;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397079",
-                    "propPath": "20509:7539404;1627207:34534841757",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397080",
-                    "propPath": "20509:28315;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397081",
-                    "propPath": "20509:28316;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397082",
-                    "propPath": "20509:28317;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397083",
-                    "propPath": "20509:6145171;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397084",
-                    "propPath": "20509:115781;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397085",
-                    "propPath": "20509:3727387;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397086",
-                    "propPath": "20509:7539404;1627207:34534841758",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "0"
-                },
-                {
-                    "skuId": "5632272397087",
-                    "propPath": "20509:28315;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397088",
-                    "propPath": "20509:28316;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397089",
-                    "propPath": "20509:28317;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397090",
-                    "propPath": "20509:6145171;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397091",
-                    "propPath": "20509:115781;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397092",
-                    "propPath": "20509:3727387;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "200"
-                },
-                {
-                    "skuId": "5632272397093",
-                    "propPath": "20509:7539404;1627207:34893489957",
-                    "price": "599",
-                    "promotion_price": "178",
-                    "activity_price": null,
-                    "quantity": "0"
-                }
-            ],
-            "sku_props": [
-                {
-                    "pid": "20509",
-                    "name": "尺码",
-                    "values": [
-                        {
-                            "vid": "28315",
-                            "name": "M 质量过关"
-                        },
-                        {
-                            "vid": "28316",
-                            "name": "L 质量过关"
-                        },
-                        {
-                            "vid": "28317",
-                            "name": "XL 质量过关"
-                        },
-                        {
-                            "vid": "6145171",
-                            "name": "2XL 质量过关"
-                        },
-                        {
-                            "vid": "115781",
-                            "name": "3XL 质量过关"
-                        },
-                        {
-                            "vid": "3727387",
-                            "name": "4XL 质量过关"
-                        },
-                        {
-                            "vid": "7539404",
-                            "name": "5XL 质量过关"
-                        }
-                    ]
-                },
-                {
-                    "pid": "1627207",
-                    "name": "颜色",
-                    "values": [
-                        {
-                            "vid": "28341",
-                            "name": "黑色 （8836常规款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01gNFKpI1hn4P1in0cp_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "28331",
-                            "name": "卡其色 （8836常规款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i4/2215831644321/O1CN01CpOryx1hn4OwM0K2j_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "28338",
-                            "name": "蓝色 （8836常规款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01l9zRhe1hn4P6R5JSh_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34580291321",
-                            "name": "黑色（8836加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01D39Dxl1hn4P5OXpG4_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34580291320",
-                            "name": "卡其色（8836加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01h95Bst1hn4P5DkDph_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34580291322",
-                            "name": "蓝色（8836加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN0121k2Uu1hn4P6RB1DY_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34580291323",
-                            "name": "黑色（5099加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01eH3uDj1hn4P0jQITd_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34580291325",
-                            "name": "蓝色（5099加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01ucEe1K1hn4P0jSF1S_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34580291324",
-                            "name": "卡其色（5099加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN011ZkI1T1hn4P4UrdQH_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34534841757",
-                            "name": "黑色3038（帽子可拆加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01mTkMpi1hn4P6RDdUd_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34534841758",
-                            "name": "卡其色3038（帽子可拆加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01i9r8MP1hn4P30hjjC_!!2215831644321.jpg"
-                        },
-                        {
-                            "vid": "34893489957",
-                            "name": "灰色3038（帽子可拆加厚款）",
-                            "image": "//img.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01kxHPB21hn4P3Wdjr1_!!2215831644321.jpg"
-                        }
-                    ]
-                }
-            ],
-            "sku_images": {
-                "1627207:28338": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01l9zRhe1hn4P6R5JSh_!!2215831644321.jpg",
-                "1627207:34534841758": "//img.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01i9r8MP1hn4P30hjjC_!!2215831644321.jpg",
-                "1627207:34580291322": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN0121k2Uu1hn4P6RB1DY_!!2215831644321.jpg",
-                "1627207:34534841757": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01mTkMpi1hn4P6RDdUd_!!2215831644321.jpg",
-                "1627207:34580291321": "//img.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01D39Dxl1hn4P5OXpG4_!!2215831644321.jpg",
-                "1627207:34580291320": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01h95Bst1hn4P5DkDph_!!2215831644321.jpg",
-                "1627207:34893489957": "//img.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01kxHPB21hn4P3Wdjr1_!!2215831644321.jpg",
-                "1627207:34580291325": "//img.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01ucEe1K1hn4P0jSF1S_!!2215831644321.jpg",
-                "1627207:28331": "//img.alicdn.com/bao/uploaded/i4/2215831644321/O1CN01CpOryx1hn4OwM0K2j_!!2215831644321.jpg",
-                "1627207:34580291324": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN011ZkI1T1hn4P4UrdQH_!!2215831644321.jpg",
-                "1627207:28341": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01gNFKpI1hn4P1in0cp_!!2215831644321.jpg",
-                "1627207:34580291323": "//img.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01eH3uDj1hn4P0jQITd_!!2215831644321.jpg"
+            {
+                "url": "//img.alicdn.com/imgextra/i1/2215831644321/O1CN01rBnWSt1hn4PVBNZ7A_!!2215831644321.png"
+            },
+            {
+                "url": "//img.alicdn.com/imgextra/i2/2215831644321/O1CN01Puch5g1hn4PW7PIsH_!!2215831644321.png"
+            },
+            {
+                "url": "//img.alicdn.com/imgextra/i4/2215831644321/O1CN01pKwgws1hn4P51YRgL_!!2215831644321.jpg"
             }
+        ],
+        "item_weight": 0,
+        "location": null,
+        "post_fee": 0,
+        "express_fee": 0,
+        "ems_fee": 0,
+        "shipping_to": "",
+        "has_discount": "true",
+        "video": {
+            "url": null
         },
-        "delivery": {
-            "from": "福建泉州",
-            "to": "东城区",
-            "delivery_fee": "0.00",
-            "area_id": "110101"
+        "is_virtual": null,
+        "sample_id": "",
+        "is_promotion": "true",
+        "prop_imgs": {
+            "prop_img": [
+                {
+                    "properties": "1627207:34580291320",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01h95Bst1hn4P5DkDph_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34580291321",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01D39Dxl1hn4P5OXpG4_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34580291322",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN0121k2Uu1hn4P6RB1DY_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:28331",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i4/2215831644321/O1CN01CpOryx1hn4OwM0K2j_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:28341",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01gNFKpI1hn4P1in0cp_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:28338",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01l9zRhe1hn4P6R5JSh_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34580291323",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01eH3uDj1hn4P0jQITd_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34580291325",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01ucEe1K1hn4P0jSF1S_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34580291324",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN011ZkI1T1hn4P4UrdQH_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34534841757",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01mTkMpi1hn4P6RDdUd_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34534841758",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01i9r8MP1hn4P30hjjC_!!2215831644321.jpg"
+                },
+                {
+                    "properties": "1627207:34893489957",
+                    "url": "https://gw.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01kxHPB21hn4P3Wdjr1_!!2215831644321.jpg"
+                }
+            ]
         },
-        "seller": {
-            "seller_id": null,
-            "seller_title": null,
-            "shop_title": "品牌新款男装店",
-            "shop_id": "378386112",
-            "shop_url": "//store.taobao.com/shop/view_shop.htm?user_number_id=",
-            "shop_icon": "//img.alicdn.com/imgextra/i1/O1CN01pz5irY1bhDKceJor2_!!6000000003496-2-tps-144-144.png",
-            "user_type": "C",
-            "evaluates": null
-        }
+        "property_alias": "1627207:34580291320:卡其色（8836加厚款）;1627207:34580291321:黑色（8836加厚款）;1627207:34580291322:蓝色（8836加厚款）;1627207:28331:卡其色 （8836常规款）;1627207:28341:黑色 （8836常规款）;1627207:28338:蓝色 （8836常规款）;1627207:34580291323:黑色（5099加厚款）;1627207:34580291325:蓝色（5099加厚款）;1627207:34580291324:卡其色（5099加厚款）;1627207:34534841757:黑色3038（帽子可拆加厚款）;1627207:34534841758:卡其色3038（帽子可拆加厚款）;1627207:34893489957:灰色3038（帽子可拆加厚款）;20509:28315:M 质量过关;20509:28316:L 质量过关;20509:28317:XL 质量过关;20509:6145171:2XL 质量过关;20509:115781:3XL 质量过关;20509:3727387:4XL 质量过关;20509:7539404:5XL 质量过关",
+        "props": [
+            {
+                "name": "上市时间",
+                "value": "2024-10"
+            },
+            {
+                "name": "含绒量(%)",
+                "value": "90%"
+            },
+            {
+                "name": "款式细节",
+                "value": "拉链款"
+            },
+            {
+                "name": "工艺",
+                "value": "免烫处理"
+            },
+            {
+                "name": "面料",
+                "value": "聚酯纤维"
+            },
+            {
+                "name": "是否商场同款",
+                "value": "否"
+            },
+            {
+                "name": "基础风格",
+                "value": "青春流行"
+            },
+            {
+                "name": "是否使用环保材质",
+                "value": "是"
+            },
+            {
+                "name": "防水等级",
+                "value": "1级"
+            },
+            {
+                "name": "适用场景",
+                "value": "其他"
+            },
+            {
+                "name": "连帽设计",
+                "value": "有帽可拆"
+            },
+            {
+                "name": "里料",
+                "value": "其他"
+            },
+            {
+                "name": "防风设计",
+                "value": "橡胶扣带"
+            },
+            {
+                "name": "绒子含量",
+                "value": "90%"
+            },
+            {
+                "name": "填充物",
+                "value": "其他/other"
+            },
+            {
+                "name": "男装-穿着方式",
+                "value": "外穿"
+            },
+            {
+                "name": "上市年份季节",
+                "value": "2025年冬季"
+            },
+            {
+                "name": "风格",
+                "value": "休闲风"
+            },
+            {
+                "name": "充绒量",
+                "value": "90-300g"
+            },
+            {
+                "name": "版型",
+                "value": "常规"
+            },
+            {
+                "name": "系列",
+                "value": "好看"
+            },
+            {
+                "name": "穿搭方式",
+                "value": "外穿"
+            },
+            {
+                "name": "组合形式",
+                "value": "单件"
+            },
+            {
+                "name": "尺码",
+                "value": "3XL,2XL,M,L,XL,4XL,5XL"
+            },
+            {
+                "name": "适用体型",
+                "value": "通用型"
+            },
+            {
+                "name": "颜色",
+                "value": "卡其色,黑色,蓝色,卡其色（8836加厚款）,黑色（8836加厚款）,蓝色（8836加厚款）,黑色（5099加厚款）,蓝色（5099加厚款）,卡其色（5099加厚款）,黑色3038（帽子可拆加厚款）,卡其色3038（帽子可拆加厚款）,灰色3038（帽子可拆加厚款）"
+            },
+            {
+                "name": "品牌",
+                "value": "Tagkita/她及其他"
+            },
+            {
+                "name": "适用人群",
+                "value": "男士,青年"
+            },
+            {
+                "name": "袖型",
+                "value": "收口袖"
+            },
+            {
+                "name": "袖长",
+                "value": "长袖"
+            },
+            {
+                "name": "货号",
+                "value": "92298"
+            },
+            {
+                "name": "功能",
+                "value": "防水,保暖,防风"
+            },
+            {
+                "name": "厚薄",
+                "value": "加厚"
+            },
+            {
+                "name": "产地",
+                "value": "中国"
+            },
+            {
+                "name": "功能性",
+                "value": "防水"
+            },
+            {
+                "name": "清洁度标准",
+                "value": "100mm"
+            },
+            {
+                "name": "领型",
+                "value": "连帽"
+            },
+            {
+                "name": "衣长类型",
+                "value": "短款"
+            },
+            {
+                "name": "图案",
+                "value": "纯色"
+            },
+            {
+                "name": "衣门襟",
+                "value": "拉链"
+            }
+        ],
+        "props_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291320:颜色:卡其色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291321:颜色:黑色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:34580291322:颜色:蓝色（8836加厚款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28331:颜色:卡其色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28341:颜色:黑色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:28338:颜色:蓝色 （8836常规款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291323:颜色:黑色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291325:颜色:蓝色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34580291324:颜色:卡其色（5099加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关;20509:28315:尺码:M 质量过关;20509:28316:尺码:L 质量过关;20509:28317:尺码:XL 质量过关;20509:6145171:尺码:2XL 质量过关;20509:115781:尺码:3XL 质量过关;20509:3727387:尺码:4XL 质量过关;20509:7539404:尺码:5XL 质量过关",
+        "total_sold": 10000,
+        "skus": {
+            "sku": [
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:28315",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397038"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:28316",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397039"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:28317",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397040"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:6145171",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397041"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:115781",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397042"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:3727387",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397043"
+                },
+                {
+                    "price": 158,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291320;20509:7539404",
+                    "properties_name": "1627207:34580291320:颜色:卡其色（8836加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397044"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:28315",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397031"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:28316",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397032"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:28317",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397033"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:6145171",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397034"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:115781",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397035"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:3727387",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397036"
+                },
+                {
+                    "price": 158,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291321;20509:7539404",
+                    "properties_name": "1627207:34580291321:颜色:黑色（8836加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397037"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:28315",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397045"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:28316",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397046"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:28317",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397047"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:6145171",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397048"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:115781",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397049"
+                },
+                {
+                    "price": 154,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:3727387",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397050"
+                },
+                {
+                    "price": 158,
+                    "total_price": 0,
+                    "orginal_price": 158,
+                    "properties": "1627207:34580291322;20509:7539404",
+                    "properties_name": "1627207:34580291322:颜色:蓝色（8836加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397051"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:28315",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397017"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:28316",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397018"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:28317",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397019"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:6145171",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397020"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:115781",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397021"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:3727387",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397022"
+                },
+                {
+                    "price": 138,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28331;20509:7539404",
+                    "properties_name": "1627207:28331:颜色:卡其色 （8836常规款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397023"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:28315",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397010"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:28316",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397011"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:28317",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397012"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:6145171",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397013"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:115781",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397014"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:3727387",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397015"
+                },
+                {
+                    "price": 138,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28341;20509:7539404",
+                    "properties_name": "1627207:28341:颜色:黑色 （8836常规款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397016"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:28315",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397024"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:28316",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397025"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:28317",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397026"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:6145171",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397027"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:115781",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397028"
+                },
+                {
+                    "price": 135,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:3727387",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397029"
+                },
+                {
+                    "price": 138,
+                    "total_price": 0,
+                    "orginal_price": 138,
+                    "properties": "1627207:28338;20509:7539404",
+                    "properties_name": "1627207:28338:颜色:蓝色 （8836常规款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397030"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:28315",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397052"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:28316",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397053"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:28317",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397054"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:6145171",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397055"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:115781",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397056"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:3727387",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397057"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291323;20509:7539404",
+                    "properties_name": "1627207:34580291323:颜色:黑色（5099加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397058"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:28315",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397059"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:28316",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397060"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:28317",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397061"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:6145171",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397062"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:115781",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397063"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:3727387",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397064"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291325;20509:7539404",
+                    "properties_name": "1627207:34580291325:颜色:蓝色（5099加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397065"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:28315",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397066"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:28316",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397067"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:28317",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397068"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:6145171",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397069"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:115781",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397070"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:3727387",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397071"
+                },
+                {
+                    "price": 164,
+                    "total_price": 0,
+                    "orginal_price": 168,
+                    "properties": "1627207:34580291324;20509:7539404",
+                    "properties_name": "1627207:34580291324:颜色:卡其色（5099加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397072"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:28315",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397073"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:28316",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397074"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:28317",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397075"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:6145171",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397076"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:115781",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397077"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:3727387",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397078"
+                },
+                {
+                    "price": 178,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841757;20509:7539404",
+                    "properties_name": "1627207:34534841757:颜色:黑色3038（帽子可拆加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397079"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:28315",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397080"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:28316",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397081"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:28317",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397082"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:6145171",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397083"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:115781",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397084"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:3727387",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397085"
+                },
+                {
+                    "price": 178,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34534841758;20509:7539404",
+                    "properties_name": "1627207:34534841758:颜色:卡其色3038（帽子可拆加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397086"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:28315",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:28315:尺码:M 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397087"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:28316",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:28316:尺码:L 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397088"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:28317",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:28317:尺码:XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397089"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:6145171",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:6145171:尺码:2XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397090"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:115781",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:115781:尺码:3XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397091"
+                },
+                {
+                    "price": 174,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:3727387",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:3727387:尺码:4XL 质量过关",
+                    "quantity": 200,
+                    "sku_id": "5632272397092"
+                },
+                {
+                    "price": 178,
+                    "total_price": 0,
+                    "orginal_price": 178,
+                    "properties": "1627207:34893489957;20509:7539404",
+                    "properties_name": "1627207:34893489957:颜色:灰色3038（帽子可拆加厚款）;20509:7539404:尺码:5XL 质量过关",
+                    "quantity": 0,
+                    "sku_id": "5632272397093"
+                }
+            ]
+        },
+        "seller_id": "2215831644321",
+        "shop_id": "378386112",
+        "props_list": {
+            "1627207:34580291320": "颜色:卡其色（8836加厚款）",
+            "1627207:34580291321": "颜色:黑色（8836加厚款）",
+            "1627207:34580291322": "颜色:蓝色（8836加厚款）",
+            "1627207:28331": "颜色:卡其色 （8836常规款）",
+            "1627207:28341": "颜色:黑色 （8836常规款）",
+            "1627207:28338": "颜色:蓝色 （8836常规款）",
+            "1627207:34580291323": "颜色:黑色（5099加厚款）",
+            "1627207:34580291325": "颜色:蓝色（5099加厚款）",
+            "1627207:34580291324": "颜色:卡其色（5099加厚款）",
+            "1627207:34534841757": "颜色:黑色3038（帽子可拆加厚款）",
+            "1627207:34534841758": "颜色:卡其色3038（帽子可拆加厚款）",
+            "1627207:34893489957": "颜色:灰色3038（帽子可拆加厚款）",
+            "20509:28315": "尺码:M 质量过关",
+            "20509:28316": "尺码:L 质量过关",
+            "20509:28317": "尺码:XL 质量过关",
+            "20509:6145171": "尺码:2XL 质量过关",
+            "20509:115781": "尺码:3XL 质量过关",
+            "20509:3727387": "尺码:4XL 质量过关",
+            "20509:7539404": "尺码:5XL 质量过关"
+        },
+        "seller_info": {
+            "nick": 1,
+            "item_score": 0,
+            "score_p": 0,
+            "delivery_score": 0,
+            "shop_type": "",
+            "user_num_id": "2215831644321",
+            "sid": null,
+            "title": "",
+            "zhuy": "https://shop378386112.taobao.com.taobao.com",
+            "cert": null,
+            "open_time": "",
+            "credit_score": null,
+            "shop_name": "品牌新款男装店"
+        },
+        "tmall": false,
+        "update_time": "2025-10-27 17:29:30",
+        "data_update": "2025-10-27 17:29:30",
+        "data_f": "ha2",
+        "data_from": "hid",
+        "promo_type": null,
+        "props_img": {
+            "1627207:34580291320": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01h95Bst1hn4P5DkDph_!!2215831644321.jpg",
+            "1627207:34580291321": "https://gw.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01D39Dxl1hn4P5OXpG4_!!2215831644321.jpg",
+            "1627207:34580291322": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN0121k2Uu1hn4P6RB1DY_!!2215831644321.jpg",
+            "1627207:28331": "https://gw.alicdn.com/bao/uploaded/i4/2215831644321/O1CN01CpOryx1hn4OwM0K2j_!!2215831644321.jpg",
+            "1627207:28341": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01gNFKpI1hn4P1in0cp_!!2215831644321.jpg",
+            "1627207:28338": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01l9zRhe1hn4P6R5JSh_!!2215831644321.jpg",
+            "1627207:34580291323": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01eH3uDj1hn4P0jQITd_!!2215831644321.jpg",
+            "1627207:34580291325": "https://gw.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01ucEe1K1hn4P0jSF1S_!!2215831644321.jpg",
+            "1627207:34580291324": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN011ZkI1T1hn4P4UrdQH_!!2215831644321.jpg",
+            "1627207:34534841757": "https://gw.alicdn.com/bao/uploaded/i3/2215831644321/O1CN01mTkMpi1hn4P6RDdUd_!!2215831644321.jpg",
+            "1627207:34534841758": "https://gw.alicdn.com/bao/uploaded/i1/2215831644321/O1CN01i9r8MP1hn4P30hjjC_!!2215831644321.jpg",
+            "1627207:34893489957": "https://gw.alicdn.com/bao/uploaded/i2/2215831644321/O1CN01kxHPB21hn4P3Wdjr1_!!2215831644321.jpg"
+        },
+        "error": null,
+        "format_check": "ok",
+        "sales": 0,
+        "desc_img": [],
+        "shop_item": [],
+        "relate_items": []
     },
-    "message": null,
-    "recordTime": "2026-02-04T00:25:46.141530749"
+    "error": "",
+    "secache": "78fabd17d0552f1f10443862293021b0",
+    "secache_time": 1770191796,
+    "secache_date": "2026-02-04 15:56:36",
+    "translate_status": "",
+    "translate_time": 0,
+    "language": {
+        "default_lang": "cn",
+        "current_lang": "cn"
+    },
+    "reason": "",
+    "error_code": "0000",
+    "cache": 0,
+    "api_info": "today:4 max:5000 all[13=4+0+9];expires:2026-05-29",
+    "execution_time": "0.919",
+    "server_time": "Beijing/2026-02-04 15:56:36",
+    "client_ip": "27.30.96.42",
+    "call_args": {
+        "num_iid": "846859559708"
+    },
+    "api_type": "taobao",
+    "translate_language": "zh-CN",
+    "translate_engine": "baidu",
+    "server_memory": "4.91MB",
+    "request_id": "gw-3.6982fbb3d55ae",
+    "last_id": "delay"
 }
