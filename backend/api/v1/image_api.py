@@ -8,7 +8,7 @@ from typing import List, Optional
 
 from backend.service.cache_service import get_cache_data, set_cache_data
 from backend.service.good_service import get_good_data
-from backend.service.image_service import dashscope_try_on
+from backend.service.image_service import dashscope_try_on, title_2_type
 from backend.utils import *
 from backend.models import *
 from backend.service import *
@@ -25,6 +25,7 @@ async def try_on(
     if data.person_img is None or data.person_img== "":
         return Resp.err(data=None, msg="参数人物图像为空")
     response=await dashscope_try_on(
+        type=title_2_type(data.title),
         good_img=data.good_img,
         person_img=data.person_img,
     )

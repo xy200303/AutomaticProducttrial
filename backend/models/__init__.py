@@ -36,6 +36,7 @@ class Resp(BaseModel):
 class TryOnReq(BaseModel):
     person_img:str
     good_img:str
+    title:str
 
 class GoodDataResp(BaseModel):
     item_imgs:list

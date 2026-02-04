@@ -13,6 +13,8 @@ function cn(...inputs) {
 function App() {
   const [itemUrl, setItemUrl] = useState('');
   const [itemImages, setItemImages] = useState([]);
+  const [itemTitle, setItemTitle] = useState("");
+
   const [selectedItemImage, setSelectedItemImage] = useState(null);
   const [itemImageBase64, setItemImageBase64] = useState(null); // New state for good_img
   const [personImage, setPersonImage] = useState(null);
@@ -125,6 +127,9 @@ function App() {
         imgs = [...new Set(imgs)];
 
         setItemImages(imgs);
+
+        //设置标题数据
+        setItemTitle(res.data.data.title)
         if (imgs.length > 0) {
             setSelectedItemImage(imgs[0]);
         } else {
@@ -162,7 +167,8 @@ function App() {
     try {
       const payload = {
         person_img: personImageBase64, // Base64
-        good_img: selectedItemImage     // URL
+        good_img: selectedItemImage,     // URL
+        title:itemTitle
       };
       
       console.log('Try-on payload:', payload); // Debug log
