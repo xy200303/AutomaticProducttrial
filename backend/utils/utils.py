@@ -126,7 +126,7 @@ async def get_taobao_item_justone(item_id: str):
     headers = {}
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(url, headers=headers) as response:
+            async with session.get(url, headers=headers,ssl=False) as response:
                 # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
                 response.raise_for_status()
                 # 解析返回的 JSON 数据
@@ -143,7 +143,7 @@ async def get_taobao_item_onebound(item_id: str):
     url = f"https://api-gw.onebound.cn/taobao/item_get/?key={Config.onebound_api_key}&num_iid={item_id}&lang=zh-CN&secret={Config.onebound_api_secret}"
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(url) as response:
+            async with session.get(url,ssl=False) as response:
                 # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
                 response.raise_for_status()
                 # 解析返回的 JSON 数据
@@ -160,7 +160,7 @@ async def get_jd_item_justone(item_id: str):
     headers = {}
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(url, headers=headers) as response:
+            async with session.get(url, headers=headers,ssl=False) as response:
                 # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
                 response.raise_for_status()
                 # 解析返回的 JSON 数据
@@ -177,7 +177,7 @@ async def get_jd_item_onebound(item_id: str):
     url = f"https://api-gw.onebound.cn/jd/item_get_pro/?key={Config.onebound_api_key}&num_iid={item_id}&lang=zh-CN&secret={Config.onebound_api_secret}"
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(url) as response:
+            async with session.get(url,ssl=False) as response:
                 # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
                 response.raise_for_status()
                 # 解析返回的 JSON 数据

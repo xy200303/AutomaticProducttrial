@@ -1,0 +1,352 @@
+{
+    "item": {
+        "num_iid": "1007064094312",
+        "title": "帽子男士秋冬季保暖毛线帽大头围针织帽潮牌棉帽加绒男款冬天冷帽",
+        "desc_short": "",
+        "price": "30.00",
+        "total_price": 0,
+        "suggestive_price": 0,
+        "orginal_price": "30.00",
+        "nick": "庞涵旗舰店",
+        "num": 1200,
+        "min_num": 0,
+        "detail_url": "https://item.taobao.com/item.htm?id=1007064094312",
+        "pic_url": "//img.alicdn.com/imgextra/i4/2213932635843/O1CN01587RgW1t29KHoEN4J_!!4611686018427385539-0-item_pic.jpg",
+        "brand": "庞涵",
+        "brandId": null,
+        "rootCatId": null,
+        "cid": "302910",
+        "crumbs": [],
+        "created_time": "",
+        "modified_time": "",
+        "delist_time": "",
+        "desc": "<div style=\"width: 750.0px;height: auto;overflow: hidden;\"><div style=\"width: 750.0px;height: auto;overflow: hidden;\"></div></div><img src=\"https://www.o0b.cn/i.php?t.png&rid=gw-1.6983142e865b8&p=454975530&k=82238&t=1770198064\" style=\"display:none\" />",
+        "desc_img": [],
+        "item_imgs": [
+            {
+                "url": "//img.alicdn.com/imgextra/i4/2213932635843/O1CN01587RgW1t29KHoEN4J_!!4611686018427385539-0-item_pic.jpg"
+            },
+            {
+                "url": "//img.alicdn.com/imgextra/i1/2213932635843/O1CN01LHFk8Z1t29KJ3Nfyd_!!2213932635843.jpg"
+            },
+            {
+                "url": "//img.alicdn.com/imgextra/i2/2213932635843/O1CN01pJ2koj1t29KIwAb24_!!2213932635843.jpg"
+            },
+            {
+                "url": "//img.alicdn.com/imgextra/i2/2213932635843/O1CN01SQosQQ1t29KIw8FWP_!!2213932635843.jpg"
+            },
+            {
+                "url": "//img.alicdn.com/imgextra/i2/2213932635843/O1CN01PPgY1g1t29KIw8JgN_!!2213932635843.jpg"
+            }
+        ],
+        "item_weight": "",
+        "item_size": "",
+        "location": "浙江金华",
+        "post_fee": null,
+        "express_fee": null,
+        "ems_fee": "",
+        "shipping_to": "",
+        "has_discount": "false",
+        "video": {
+            "url": ""
+        },
+        "is_virtual": "",
+        "sample_id": "",
+        "is_promotion": "false",
+        "props_name": "20509:12430609:尺码:弹力均码;1627207:28331:颜色分类:卡其色;1627207:28322:颜色分类:米色;1627207:7085041:颜色分类:深灰;1627207:4084517:颜色分类:浅灰;1627207:28327:颜色分类:酒红色;1627207:28341:颜色分类:黑色",
+        "prop_imgs": {
+            "prop_img": [
+                {
+                    "properties": "1627207:28331",
+                    "url": "http://img.alicdn.com/imgextra/i1/2181779871/O1CN018vEoWv2MmyfeSOcj8_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:28322",
+                    "url": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01xz038T2MmyfjamhpG_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:7085041",
+                    "url": "http://img.alicdn.com/imgextra/i2/2181779871/O1CN01Bd7dBC2MmyfjaiPTY_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:4084517",
+                    "url": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01RqwLpb2Mmyfjag7xD_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:28327",
+                    "url": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01SXiW4G2Mmyfk5uunD_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:28341",
+                    "url": "http://img.alicdn.com/imgextra/i1/2181779871/O1CN01dwagLh2MmyfkmwOP1_!!2181779871.jpg"
+                }
+            ]
+        },
+        "property_alias": "",
+        "props": [
+            {
+                "name": "风格",
+                "value": "休闲"
+            },
+            {
+                "name": "透气性",
+                "value": "中"
+            },
+            {
+                "name": "是否商场同款",
+                "value": "否"
+            },
+            {
+                "name": "适用场景",
+                "value": "骑行 旅行"
+            },
+            {
+                "name": "帽檐款式",
+                "value": "无檐"
+            },
+            {
+                "name": "工艺",
+                "value": "针织"
+            },
+            {
+                "name": "可摺叠性",
+                "value": "可摺叠"
+            },
+            {
+                "name": "适用季节",
+                "value": "秋季 冬季"
+            },
+            {
+                "name": "安全类别",
+                "value": "A类"
+            },
+            {
+                "name": "厚度",
+                "value": "加厚"
+            },
+            {
+                "name": "帽子类型",
+                "value": "针织帽"
+            },
+            {
+                "name": "帽围",
+                "value": "54-56CM"
+            },
+            {
+                "name": "适用性别",
+                "value": "男"
+            },
+            {
+                "name": "尺码",
+                "value": "弹力均码"
+            },
+            {
+                "name": "颜色分类",
+                "value": "卡其色 酒红色 黑色 米色 深灰 浅灰"
+            },
+            {
+                "name": "品牌",
+                "value": "庞涵"
+            },
+            {
+                "name": "款式细节",
+                "value": "图案"
+            },
+            {
+                "name": "包装种类",
+                "value": "其他"
+            },
+            {
+                "name": "上市年份季节",
+                "value": "2025年冬季"
+            },
+            {
+                "name": "是否可调节",
+                "value": "不可调节"
+            },
+            {
+                "name": "帽顶款式",
+                "value": "圆顶"
+            },
+            {
+                "name": "适用人羣",
+                "value": "通用"
+            },
+            {
+                "name": "货号",
+                "value": "1766884045802130"
+            },
+            {
+                "name": "适用年龄",
+                "value": "25-29周岁 20-24周岁 35-39周岁 30-34周岁"
+            },
+            {
+                "name": "面料功能",
+                "value": "保暖"
+            },
+            {
+                "name": "材质",
+                "value": "其他"
+            },
+            {
+                "name": "图案",
+                "value": "字母"
+            },
+            {
+                "name": "闭合方式",
+                "value": "塑胶排扣"
+            }
+        ],
+        "total_sold": "14",
+        "skus": {
+            "sku": [
+                {
+                    "price": 30,
+                    "total_price": 0,
+                    "orginal_price": 30,
+                    "properties": "20509:12430609;1627207:28327",
+                    "properties_name": "20509:12430609:尺码:弹力均码;1627207:28327:颜色分类:酒红色",
+                    "quantity": "200",
+                    "sku_id": 6021427989596
+                },
+                {
+                    "price": 30,
+                    "total_price": 0,
+                    "orginal_price": 30,
+                    "properties": "20509:12430609;1627207:28331",
+                    "properties_name": "20509:12430609:尺码:弹力均码;1627207:28331:颜色分类:卡其色",
+                    "quantity": "200",
+                    "sku_id": 6021427989597
+                },
+                {
+                    "price": 30,
+                    "total_price": 0,
+                    "orginal_price": 30,
+                    "properties": "20509:12430609;1627207:28341",
+                    "properties_name": "20509:12430609:尺码:弹力均码;1627207:28341:颜色分类:黑色",
+                    "quantity": "200",
+                    "sku_id": 6021427989598
+                },
+                {
+                    "price": 30,
+                    "total_price": 0,
+                    "orginal_price": 30,
+                    "properties": "20509:12430609;1627207:4084517",
+                    "properties_name": "20509:12430609:尺码:弹力均码;1627207:4084517:颜色分类:浅灰",
+                    "quantity": "200",
+                    "sku_id": 6021427989599
+                },
+                {
+                    "price": 30,
+                    "total_price": 0,
+                    "orginal_price": 30,
+                    "properties": "20509:12430609;1627207:7085041",
+                    "properties_name": "20509:12430609:尺码:弹力均码;1627207:7085041:颜色分类:深灰",
+                    "quantity": "200",
+                    "sku_id": 6021427989600
+                },
+                {
+                    "price": 30,
+                    "total_price": 0,
+                    "orginal_price": 30,
+                    "properties": "20509:12430609;1627207:28322",
+                    "properties_name": "20509:12430609:尺码:弹力均码;1627207:28322:颜色分类:米色",
+                    "quantity": "200",
+                    "sku_id": 6004885093174
+                }
+            ]
+        },
+        "seller_id": "2213932635843",
+        "sales": 14,
+        "shop_id": "427039368",
+        "props_list": {
+            "20509:12430609": "尺码:弹力均码",
+            "1627207:28331": "颜色分类:卡其色",
+            "1627207:28322": "颜色分类:米色",
+            "1627207:7085041": "颜色分类:深灰",
+            "1627207:4084517": "颜色分类:浅灰",
+            "1627207:28327": "颜色分类:酒红色",
+            "1627207:28341": "颜色分类:黑色"
+        },
+        "seller_info": {
+            "nick": "庞涵旗舰店",
+            "zhuy": "https://shop427039368.taobao.com/",
+            "shop_name": "庞涵旗舰店"
+        },
+        "tmall": true,
+        "error": "",
+        "warning": "",
+        "url_log": [],
+        "fav_count": null,
+        "fans_count": null,
+        "freight": null,
+        "props_imgs": {
+            "prop_img": [
+                {
+                    "properties": "1627207:28331",
+                    "url": "http://img.alicdn.com/imgextra/i1/2181779871/O1CN018vEoWv2MmyfeSOcj8_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:28322",
+                    "url": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01xz038T2MmyfjamhpG_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:7085041",
+                    "url": "http://img.alicdn.com/imgextra/i2/2181779871/O1CN01Bd7dBC2MmyfjaiPTY_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:4084517",
+                    "url": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01RqwLpb2Mmyfjag7xD_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:28327",
+                    "url": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01SXiW4G2Mmyfk5uunD_!!2181779871.jpg"
+                },
+                {
+                    "properties": "1627207:28341",
+                    "url": "http://img.alicdn.com/imgextra/i1/2181779871/O1CN01dwagLh2MmyfkmwOP1_!!2181779871.jpg"
+                }
+            ]
+        },
+        "_ddf": "lh",
+        "promo_type": null,
+        "props_img": {
+            "1627207:28331": "http://img.alicdn.com/imgextra/i1/2181779871/O1CN018vEoWv2MmyfeSOcj8_!!2181779871.jpg",
+            "1627207:28322": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01xz038T2MmyfjamhpG_!!2181779871.jpg",
+            "1627207:7085041": "http://img.alicdn.com/imgextra/i2/2181779871/O1CN01Bd7dBC2MmyfjaiPTY_!!2181779871.jpg",
+            "1627207:4084517": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01RqwLpb2Mmyfjag7xD_!!2181779871.jpg",
+            "1627207:28327": "http://img.alicdn.com/imgextra/i3/2181779871/O1CN01SXiW4G2Mmyfk5uunD_!!2181779871.jpg",
+            "1627207:28341": "http://img.alicdn.com/imgextra/i1/2181779871/O1CN01dwagLh2MmyfkmwOP1_!!2181779871.jpg"
+        },
+        "format_check": "ok",
+        "shop_item": [],
+        "relate_items": []
+    },
+    "error": "",
+    "secache": "bbfcd747a2dd18c5d15ac729f94fc5a0",
+    "secache_time": 1770198064,
+    "secache_date": "2026-02-04 17:41:04",
+    "translate_status": "",
+    "translate_time": 0,
+    "language": {
+        "default_lang": "cn",
+        "current_lang": "cn"
+    },
+    "reason": "",
+    "error_code": "0000",
+    "cache": 0,
+    "api_info": "today:12 max:5000 all[25=12+2+11];expires:2026-05-29",
+    "execution_time": "1.569",
+    "server_time": "Beijing/2026-02-04 17:41:04",
+    "client_ip": "27.30.96.42",
+    "call_args": {
+        "num_iid": "1007064094312",
+        "API_type": "taobao"
+    },
+    "api_type": "taobao",
+    "translate_language": "zh-CN",
+    "translate_engine": "baidu",
+    "server_memory": "4.75MB",
+    "request_id": "gw-1.6983142e865b8",
+    "last_id": "delay"
+}
