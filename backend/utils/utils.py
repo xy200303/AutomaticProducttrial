@@ -118,7 +118,9 @@ def extract_tb_item_id(url):
         print(f"URL 解析错误: {e}")
         return None
 
-async def get_taobao_item(item_id: str):
+async def get_taobao_item_justone(item_id: str):
+    if Config.just_one_api_key is None or Config.just_one_api_key == '':
+        raise Exception("请先配置JustOneAPI接口")
     url = f"http://47.117.133.51:30015/api/taobao/get-item-detail/v5?token={Config.just_one_api_key}&itemId={item_id}"
     headers = {}
     try:
@@ -134,12 +136,47 @@ async def get_taobao_item(item_id: str):
         logger.error(e)
         raise e
 
-async def get_jd_item(item_id: str):
+async def get_taobao_item_onebound(item_id: str):
+    if Config.onebound_api_key is None or Config.onebound_api_key == '':
+        raise Exception("请先配置万邦API接口")
+    url = f"https://api-gw.onebound.cn/taobao/item_get/?key={Config.onebound_api_key}&num_iid={item_id}&lang=zh-CN&secret={Config.onebound_api_secret}"
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as response:
+                # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
+                response.raise_for_status()
+                # 解析返回的 JSON 数据
+                data = await response.json()
+                return data
+    except aiohttp.ClientResponseError as e:
+        logger.error(e)
+        raise e
+
+async def get_jd_item_justone(item_id: str):
+    if Config.just_one_api_key is None or Config.just_one_api_key == '':
+        raise Exception("请先配置JustOneAPI接口")
     url = f"http://47.117.133.51:30015/api/jd/get-item-detail/v1?token={Config.just_one_api_key}&itemId={item_id}"
     headers = {}
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(url, headers=headers) as response:
+                # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
+                response.raise_for_status()
+                # 解析返回的 JSON 数据
+                data = await response.json()
+                return data
+    except aiohttp.ClientResponseError as e:
+        logger.error(e)
+        raise e
+
+
+async def get_jd_item_onebound(item_id: str):
+    if Config.onebound_api_key is None or Config.onebound_api_key == '':
+        raise Exception("请先配置万邦API接口")
+    url = f"https://api-gw.onebound.cn/jd/item_get_pro/?key={Config.onebound_api_key}&num_iid={item_id}&lang=zh-CN&secret={Config.onebound_api_secret}"
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as response:
                 # 检查 HTTP 状态码，如 4xx / 5xx 会触发异常
                 response.raise_for_status()
                 # 解析返回的 JSON 数据

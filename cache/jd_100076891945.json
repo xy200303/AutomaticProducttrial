@@ -1,0 +1,558 @@
+{
+    "item": {
+        "num_iid": "100076891945",
+        "title": "JEEP吉普牛仔裤男秋冬季直筒宽松休闲裤子商务复古男裤 蓝灰 32",
+        "desc_short": "",
+        "price": "199.00",
+        "total_price": "",
+        "suggestive_price": "",
+        "orginal_price": "199.00",
+        "nick": "JEEP服饰京东自营旗舰店",
+        "num": "99",
+        "min_num": "1",
+        "detail_url": "https://item.jd.com/100076891945.html#crumb-wrap",
+        "pic_url": "//img13.360buyimg.com/n12/jfs/t1/346528/9/17168/127466/68fb4438F38a53ba8/9f89239c833931bb.jpg",
+        "brand": "JEEP",
+        "brandId": "8840",
+        "rootCatId": "1315",
+        "cid": "9735",
+        "desc": "",
+        "desc_img": [],
+        "item_imgs": {
+            "item_img": [
+                {
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/346528/9/17168/127466/68fb4438F38a53ba8/9f89239c833931bb.jpg"
+                },
+                {
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/265791/26/299/85705/6763dd64Fab6b986d/706a8a54d9e2e6ce.jpg"
+                },
+                {
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/264697/16/299/94412/6763dd61F614325c5/f9ad5b7268cd4287.jpg"
+                },
+                {
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/231744/1/38906/80937/6763dd63Ff5c27788/9c87fc0cad8625f1.jpg"
+                },
+                {
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/231729/17/36871/81796/6763dd60Fb7877b8a/d01a768a363fc249.jpg"
+                }
+            ]
+        },
+        "item_weight": null,
+        "post_fee": "",
+        "express_fee": "",
+        "ems_fee": "",
+        "video_id": "",
+        "is_promotion": "",
+        "props_name": "0:0:尺码:28;0:1:尺码:29;0:2:尺码:30;0:3:尺码:31;0:4:尺码:32;0:5:尺码:33;0:6:尺码:34;0:7:尺码:36;0:8:尺码:38;0:9:尺码:40;1:0:颜色:蓝灰;1:1:颜色:黑灰;1:2:颜色:蓝灰加绒;1:3:颜色:黑灰加绒;",
+        "prop_imgs": {
+            "prop_img": [
+                {
+                    "properties": "1:1",
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/299135/37/25973/81834/68915ee0F5dcffb0f/55cd872be85a030d.jpg"
+                },
+                {
+                    "properties": "1:2",
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/259667/9/304/127054/6763dddbF5c155014/ce554fe798acb9cc.jpg"
+                },
+                {
+                    "properties": "1:0",
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/346528/9/17168/127466/68fb4438F38a53ba8/9f89239c833931bb.jpg"
+                },
+                {
+                    "properties": "1:3",
+                    "url": "//img10.360buyimg.com/n1/jfs/t1/311673/27/22825/103027/68915ffaF4daa72e5/6c2bdba6ef09b007.jpg"
+                }
+            ]
+        },
+        "property_alias": "0:0:尺码:28;0:1:尺码:29;0:2:尺码:30;0:3:尺码:31;0:4:尺码:32;0:5:尺码:33;0:6:尺码:34;0:7:尺码:36;0:8:尺码:38;0:9:尺码:40;1:0:颜色:蓝灰;1:1:颜色:黑灰;1:2:颜色:蓝灰加绒;1:3:颜色:黑灰加绒;1:3:黑灰加绒;",
+        "props": [
+            {
+                "name": "是否可定制",
+                "value": "不可定制"
+            },
+            {
+                "name": "腰型",
+                "value": "自然腰"
+            },
+            {
+                "name": "材质",
+                "value": "棉67%涤纶(聚酯纤维)31%氨纶(聚氨酯弹性纤维)1%再生纤维素纤维1%"
+            },
+            {
+                "name": "裤型",
+                "value": "直筒裤"
+            },
+            {
+                "name": "弹力",
+                "value": "微弹"
+            },
+            {
+                "name": "裤门襟",
+                "value": "拉链"
+            },
+            {
+                "name": "裤长",
+                "value": "长裤"
+            },
+            {
+                "name": "厚度",
+                "value": "常规"
+            },
+            {
+                "name": "适用人群",
+                "value": "青年"
+            },
+            {
+                "name": "图案",
+                "value": "纯色"
+            },
+            {
+                "name": "风格",
+                "value": "百搭风"
+            },
+            {
+                "name": "上市时间",
+                "value": "2025年冬季"
+            },
+            {
+                "name": "适用场景",
+                "value": "学校居家"
+            },
+            {
+                "name": "适用季节",
+                "value": "秋季冬季"
+            }
+        ],
+        "total_sold": "0",
+        "skus": {
+            "sku": [
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:5;1:1",
+                    "properties_name": "0:5:尺码:33;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100200748701",
+                    "sku_url": "http://item.jd.com/100200748701.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:9;1:1",
+                    "properties_name": "0:9:尺码:40;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100200748745",
+                    "sku_url": "http://item.jd.com/100200748745.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:3;1:1",
+                    "properties_name": "0:3:尺码:31;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100200748723",
+                    "sku_url": "http://item.jd.com/100200748723.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:7;1:1",
+                    "properties_name": "0:7:尺码:36;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100200748743",
+                    "sku_url": "http://item.jd.com/100200748743.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:2;1:1",
+                    "properties_name": "0:2:尺码:30;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100200748721",
+                    "sku_url": "http://item.jd.com/100200748721.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:9;1:2",
+                    "properties_name": "0:9:尺码:40;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653334",
+                    "sku_url": "http://item.jd.com/100079653334.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:5;1:0",
+                    "properties_name": "0:5:尺码:33;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653312",
+                    "sku_url": "http://item.jd.com/100079653312.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:6;1:0",
+                    "properties_name": "0:6:尺码:34;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653314",
+                    "sku_url": "http://item.jd.com/100079653314.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:9;1:0",
+                    "properties_name": "0:9:尺码:40;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653316",
+                    "sku_url": "http://item.jd.com/100079653316.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:6;1:2",
+                    "properties_name": "0:6:尺码:34;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653318",
+                    "sku_url": "http://item.jd.com/100079653318.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:7;1:3",
+                    "properties_name": "0:7:尺码:36;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173236",
+                    "sku_url": "http://item.jd.com/100291173236.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:7;1:0",
+                    "properties_name": "0:7:尺码:36;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653342",
+                    "sku_url": "http://item.jd.com/100079653342.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:9;1:3",
+                    "properties_name": "0:9:尺码:40;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173238",
+                    "sku_url": "http://item.jd.com/100291173238.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:3;1:2",
+                    "properties_name": "0:3:尺码:31;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100076891949",
+                    "sku_url": "http://item.jd.com/100076891949.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:2;1:2",
+                    "properties_name": "0:2:尺码:30;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100076891947",
+                    "sku_url": "http://item.jd.com/100076891947.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:4;1:0",
+                    "properties_name": "0:4:尺码:32;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100076891945",
+                    "sku_url": "http://item.jd.com/100076891945.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:0;1:2",
+                    "properties_name": "0:0:尺码:28;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653344",
+                    "sku_url": "http://item.jd.com/100079653344.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:3;1:0",
+                    "properties_name": "0:3:尺码:31;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653300",
+                    "sku_url": "http://item.jd.com/100079653300.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:2;1:3",
+                    "properties_name": "0:2:尺码:30;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173232",
+                    "sku_url": "http://item.jd.com/100291173232.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:4;1:2",
+                    "properties_name": "0:4:尺码:32;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653346",
+                    "sku_url": "http://item.jd.com/100079653346.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:5;1:3",
+                    "properties_name": "0:5:尺码:33;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173234",
+                    "sku_url": "http://item.jd.com/100291173234.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:5;1:2",
+                    "properties_name": "0:5:尺码:33;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653348",
+                    "sku_url": "http://item.jd.com/100079653348.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:3;1:3",
+                    "properties_name": "0:3:尺码:31;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173250",
+                    "sku_url": "http://item.jd.com/100291173250.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:1;1:0",
+                    "properties_name": "0:1:尺码:29;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653326",
+                    "sku_url": "http://item.jd.com/100079653326.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:8;1:3",
+                    "properties_name": "0:8:尺码:38;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173194",
+                    "sku_url": "http://item.jd.com/100291173194.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:4;1:3",
+                    "properties_name": "0:4:尺码:32;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173252",
+                    "sku_url": "http://item.jd.com/100291173252.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:2;1:0",
+                    "properties_name": "0:2:尺码:30;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653328",
+                    "sku_url": "http://item.jd.com/100079653328.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:6;1:3",
+                    "properties_name": "0:6:尺码:34;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100218182987",
+                    "sku_url": "http://item.jd.com/100218182987.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:0;1:1",
+                    "properties_name": "0:0:尺码:28;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100265449590",
+                    "sku_url": "http://item.jd.com/100265449590.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:0;1:3",
+                    "properties_name": "0:0:尺码:28;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100291173208",
+                    "sku_url": "http://item.jd.com/100291173208.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:7;1:2",
+                    "properties_name": "0:7:尺码:36;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653350",
+                    "sku_url": "http://item.jd.com/100079653350.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:6;1:1",
+                    "properties_name": "0:6:尺码:34;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100265449594",
+                    "sku_url": "http://item.jd.com/100265449594.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:8;1:0",
+                    "properties_name": "0:8:尺码:38;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100079653330",
+                    "sku_url": "http://item.jd.com/100079653330.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:1;1:3",
+                    "properties_name": "0:1:尺码:29;1:3:颜色:黑灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100218182985",
+                    "sku_url": "http://item.jd.com/100218182985.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:4;1:1",
+                    "properties_name": "0:4:尺码:32;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100265449592",
+                    "sku_url": "http://item.jd.com/100265449592.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:1;1:2",
+                    "properties_name": "0:1:尺码:29;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100079653332",
+                    "sku_url": "http://item.jd.com/100079653332.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:8;1:2",
+                    "properties_name": "0:8:尺码:38;1:2:颜色:蓝灰加绒",
+                    "quantity": "99",
+                    "sku_id": "100076891939",
+                    "sku_url": "http://item.jd.com/100076891939.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:8;1:1",
+                    "properties_name": "0:8:尺码:38;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100265449596",
+                    "sku_url": "http://item.jd.com/100265449596.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:1;1:1",
+                    "properties_name": "0:1:尺码:29;1:1:颜色:黑灰",
+                    "quantity": "99",
+                    "sku_id": "100265449558",
+                    "sku_url": "http://item.jd.com/100265449558.html"
+                },
+                {
+                    "price": "199.00",
+                    "orginal_price": "199.00",
+                    "properties": "0:0;1:0",
+                    "properties_name": "0:0:尺码:28;1:0:颜色:蓝灰",
+                    "quantity": "99",
+                    "sku_id": "100076891935",
+                    "sku_url": "http://item.jd.com/100076891935.html"
+                }
+            ]
+        },
+        "seller_id": "1000376356",
+        "sales": 0,
+        "shop_id": "1000376356",
+        "props_list": {
+            "0:0": "尺码:28",
+            "0:1": "尺码:29",
+            "0:2": "尺码:30",
+            "0:3": "尺码:31",
+            "0:4": "尺码:32",
+            "0:5": "尺码:33",
+            "0:6": "尺码:34",
+            "0:7": "尺码:36",
+            "0:8": "尺码:38",
+            "0:9": "尺码:40",
+            "1:0": "颜色:蓝灰",
+            "1:1": "颜色:黑灰",
+            "1:2": "颜色:蓝灰加绒",
+            "1:3": "颜色:黑灰加绒"
+        },
+        "seller_info": {
+            "shop_id": 1000376356,
+            "zhuy": "http://mall.jd.com/index-1000376356.html",
+            "nick": "JEEP服饰京东自营旗舰店",
+            "shop_name": "JEEP服饰京东自营旗舰店"
+        },
+        "props_img": [
+            {
+                "1:1": "//img10.360buyimg.com/n1/jfs/t1/299135/37/25973/81834/68915ee0F5dcffb0f/55cd872be85a030d.jpg"
+            },
+            {
+                "1:2": "//img10.360buyimg.com/n1/jfs/t1/259667/9/304/127054/6763dddbF5c155014/ce554fe798acb9cc.jpg"
+            },
+            {
+                "1:0": "//img10.360buyimg.com/n1/jfs/t1/346528/9/17168/127466/68fb4438F38a53ba8/9f89239c833931bb.jpg"
+            },
+            {
+                "1:3": "//img10.360buyimg.com/n1/jfs/t1/311673/27/22825/103027/68915ffaF4daa72e5/6c2bdba6ef09b007.jpg"
+            }
+        ],
+        "_ddf": "fqx"
+    },
+    "secache": "4ebf3b2192030a68f8bf532d856fadee",
+    "secache_time": 1770195574,
+    "secache_date": "2026-02-04 16:59:34",
+    "translate_status": "",
+    "translate_time": 0,
+    "language": {
+        "default_lang": "cn",
+        "current_lang": "cn"
+    },
+    "error": "",
+    "reason": "",
+    "error_code": "0000",
+    "cache": 0,
+    "api_info": "today:11 max:5000 all[24=11+2+11];expires:2026-05-29",
+    "execution_time": "6.396",
+    "server_time": "Beijing/2026-02-04 16:59:34",
+    "client_ip": "27.30.96.42",
+    "call_args": {
+        "num_iid": "100076891945"
+    },
+    "api_type": "jd",
+    "translate_language": "zh-CN",
+    "translate_engine": "baidu",
+    "server_memory": "3.31MB",
+    "request_id": "gw-1.69830a6fc46d0",
+    "last_id": "delay"
+}

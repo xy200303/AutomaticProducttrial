@@ -16,11 +16,6 @@ good_router = APIRouter()
 async def get_item_data(
     text:str
 ):
-    item_data=await get_good_data(text)
-    if item_data is None:
-        return Resp.err(None)
-    if item_data is not None and item_data["code"]==0:
-        return Resp.ok(item_data["data"])
-    else:
-        return Resp.err(item_data["data"],msg=str(item_data["message"]))
+    good_data_resp=await get_good_data(text)
+    return good_data_resp
     

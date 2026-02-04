@@ -3,3 +3,7 @@ JustOneApiKey: "密钥"
 
 #https://bailian.console.aliyun.com/cn-beijing/?tab=app#/api-key
 DashscopeApiKey: "密钥"
+
+#https://open.onebound.cn/test/?api_type=taobao&api_name=item_get&sso_checked=1
+OneBoundApiKey: ""
+OneBoundApiSecret: ""
